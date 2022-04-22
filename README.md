@@ -1,7 +1,7 @@
 ### 
 
 
-- 🔭 I’m currently working on font-end
+- 🔭 I’m currently working on front-end
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: baptistamhernani@gmail.com
 
