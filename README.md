@@ -11,3 +11,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bosshentai&layout=compact&langs_count=10&theme=dark&hide=jupyter%20notebook"/>
 </div>
 
+<div align="center">
+ 
+  ![snake gif](https://github.com/joaopcm/joaopcm/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
