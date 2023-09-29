@@ -1,9 +1,10 @@
 ### 
 
 
-- 🔭 I’m currently working on front-end
+- 🔭 I’m currently working on full-Stack
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: baptistamhernani@gmail.com
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bosshentai&label=Profile%20views&color=0e75b6&style=flat" alt="bosshentai" /> </p>
 
 <div align="center">
   <a href="https://github.com/bosshentai">
