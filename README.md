@@ -1,7 +1,7 @@
 ### 
 
 
-[![wakatime](https://wakatime.com/badge/user/018db395-1514-45a4-a270-0da94a7bacba.svg)](https://wakatime.com/@018db395-1514-45a4-a270-0da94a7bacba)
+
 
 - 🔭 I’m currently working on full-Stack
 - 🌱 I’m currently learning TypeScript
@@ -10,6 +10,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bosshentai&label=Profile%20views&color=0e75b6&style=flat" alt="bosshentai" /> </p>
+[![wakatime](https://wakatime.com/badge/user/018db395-1514-45a4-a270-0da94a7bacba.svg)](https://wakatime.com/@018db395-1514-45a4-a270-0da94a7bacba)
 
 <div align="center">
   <a href="https://github.com/bosshentai">
