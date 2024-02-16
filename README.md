@@ -8,9 +8,9 @@
 - 📫 How to reach me: baptistamhernani@gmail.com
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bosshentai&label=Profile%20views&color=0e75b6&style=flat" alt="bosshentai" /> </p>
 [![wakatime](https://wakatime.com/badge/user/018db395-1514-45a4-a270-0da94a7bacba.svg)](https://wakatime.com/@018db395-1514-45a4-a270-0da94a7bacba)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bosshentai&label=Profile%20views&color=0e75b6&style=flat" alt="bosshentai" /> </p>
+
 
 <div align="center">
   <a href="https://github.com/bosshentai">
