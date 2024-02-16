@@ -4,6 +4,9 @@
 - 🔭 I’m currently working on full-Stack
 - 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: baptistamhernani@gmail.com
+
+<a href="https://wakatime.com/@018db395-1514-45a4-a270-0da94a7bacba"><img src="https://wakatime.com/badge/user/018db395-1514-45a4-a270-0da94a7bacba.svg" alt="Total time coded since Feb 16 2024" /></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bosshentai&label=Profile%20views&color=0e75b6&style=flat" alt="bosshentai" /> </p>
 
 <div align="center">
